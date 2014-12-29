@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+
+body, html {
+  height: 100%;
+}
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:100%;
+    float:left;
+    padding:10px;
+	height:100vh;	
+}
+
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+	padding:5px;	 	 
+}
+</style>
+</head>
+
+<body>
+
+<div id="header">
+<h1>MC Link Logo</h1>
+</div>
+
+<div id="section">
+<center>
+<h2>Announcements</h2>
+<p>
+
+</p>
+<!--
+<input type='text' id='my-text-box' value="Announcements are here!!!!" />
+<!--
+<br>
+<br>
+<br>
+
+<div align="center">
+Announcements<br><br>
+<textarea cols="90" rows="15" name="myname">
+Oh No! You're failing Precalc.
+</textarea>
+<br><br>
+
+<br><br><br><br>
+
+My Grades<br><br>
+<textarea cols="40" rows="5" name="myname">
+Stuff is display here!
+</textarea>
+<br><br>
+<button type="button">Click</button>
+<br><br><br><br><br>
+
+<p>
+Education - Career Navigation - Financial Literacy - Health
+</p>
+</center>
+</div>
+
+<div id="footer">
+Adsystech Logo
+</div>
+
+</body>
+</html>
