@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+
+body, html {
+  height: 100%;
+}
+
+#header {
+    background-color:#1569C7;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:100%;
+    float:left;
+    padding:10px;
+	height:180vh;	
+}
+
+
+#footer {
+    background-color:#1569C7;
+    color:white;
+    clear:both;
+    text-align:center;
+	padding:5px;	 	 
+}
+</style>
+</head>
+
+<body>
+
+<div id="header">
+<h1>MC Link Logo</h1>
+</div>
+
+<div id="section">
+<center>
+    <font size="15" color="#FFA62F"> <h2>Education<h2> </font>
+<font size="5"> <h2>Announcements</h2> </font>
+<p>
+<font color="red"> You're failing Precalc </font>
+<br> 
+<br>
+My Grades
+<table style="width:100%">
+  <tr>
+    <td>Precalculus</td>
+    <td>F</td> 
+  </tr>
+  <tr>
+    <td>English</td>
+    <td> B </td>
+</tr>
+<tr>
+    <td>Science</td>
+    <td> A </td>
+</tr>
+<tr>
+    <td>American History</td>
+    <td> A </td>
+</tr>
+</table> 
+<p>
+
+    <font size="5"> Need Tutoring? Check out the times here </font>
+    <table style="width:80%">
+  <tr>
+    <td>Ms. Lopez (Math) </td>
+    <td>Monday, Wednesday, and Friday at 4pm- 5:3opm</td> 
+  </tr>
+  <tr>
+    <td>Ms. Johnson (Math) </td>
+    <td> Tuesday, Wednesday, Thursday, Friday at 4:30pm- 7pm </td>
+</table>
+    <br>
+    Log Study Time <br>
+    <textarea cols="40" rows="5" name="studyhours">
+Log in your hours and date!
+</textarea>
+<br><br>
+<button type="button">submit</button>
+<br><br>
+
+Home - My Grades - Log Study Time - Log Extracurricular Activities 
+</p>
+</center>
+</div>
+</body>
+
+<div id="footer">
+Adsystech Logo
+</div>
+
+
+</html>
