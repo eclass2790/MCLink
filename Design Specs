@@ -1,0 +1,27 @@
+MCLink Design Specifications
+Android Phone 1080p
+1080px/1920px/2px
+Point Status Panel
+1000px/320px/2px
+Icons Panel
+1000/320px/2px
+Body Panel
+1000px/640px/2px
+Icons within Announcements Panel
+100px/100px/2px
+User Profile Placeholder
+150px/150px/2px
+Login and Cancel Buttons 
+200w/50h/2px
+User/Pass Cutout
+900px/213.33px/2px
+Orange 231, 171, 31 RGB
+Yellow 238, 233, 77 RGB
+Banner Panel 
+Rectangle 1080px/240px/2px
+
+Units in Pixels except where noted.
+
+Type is Raleway Bold except in Annoucements Panel then Montserrat 30pt Black
+Default Raleway Bold is 6pt
+
